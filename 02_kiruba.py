@@ -8,7 +8,7 @@ p.press('enter')
 
 t.sleep(20)
 p.hotkey('ctrl','f')
-p.write('kamalesh')
+p.write('arun srinivasan')
 t.sleep(2)
 p.press('enter')
 
